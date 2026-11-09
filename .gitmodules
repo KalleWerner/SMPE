@@ -1,0 +1,3 @@
+[submodule "M2R-ParallelQuicksort"]
+	path = M2R-ParallelQuicksort
+	url = https://github.com/KalleWerner/M2R-ParallelQuicksort.git
