@@ -1,0 +1,16 @@
+1) The anatomy of a large-scale hypertextual Web searchengine by Brin and Page, 1998
+A piece of history, very cool to read. 
+I like how innocent they were back then: "To make matters worse, some advertisers try to gain people’s attention by taking measures meant to mislead automated search engines."
+This is funny: "In fact, as of November 1997. only one of the top four commercial search engines finds itself (returns its own search page in response to its name in the top ten results).
+
+2) Attention is All You Need by Vaswani et al., 2017
+This is arguably one of the most important papers of the last ten years. The proposed Attention mechanism is the basis of modern generative AI models, such as LLMs. They are very thorough in describing the architecture and algorithms and provide a link to their open source code. Amazing.
+
+3) On the Refinement of DHTs by Michael et al., 2019
+Everything is misaligned and crooked. The graphs are ugly. Terrible, horrible. I don't really understand what the paper is about after reading the abstract so I won't bother reading the rest of the paper.      
+
+4) Deep Latent Mixture Model for Recommendation by Zhang et al., 2022
+I dislike the citation style. The abstract is gibberish and the Math is made up. There are spelling, grammar and punctuatoin errors. Concepts are introduced and authors are mentioned without any citation. This paper looks like it was written by someone who has only seen a few papers and who has never done any science or maths and now tried to pretend to know what they're doing. However, I really liked the line "Every student is aware that ˜w(d′′) ≥ 0"
+
+5) A Relational Model of Data for Large Shared Data Banks by Codd, 1970
+
